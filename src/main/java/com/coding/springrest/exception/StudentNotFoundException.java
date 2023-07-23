@@ -1,4 +1,4 @@
-package com.coding.springrest.rest;
+package com.coding.springrest.exception;
 
 public class StudentNotFoundException extends RuntimeException{
 
